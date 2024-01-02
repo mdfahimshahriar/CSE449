@@ -3,9 +3,11 @@ playlist: https://youtube.com/playlist?list=PLwNCQRgfv_8LdU55S8BfHBxceqoDyC5-v&s
 
 
 
-Paper Title: FedBERT: When Federated Learning Meets Pre-training
+Paper Title: FedPETuning: When Federated Learning Meets the Parameter-Efficient
+Tuning Methods of Pre-trained Language Models
 
-Paper Link: https: https://dl.acm.org/doi/abs/10.1145/3510033
+Paper Link: https:  https://arxiv.org/abs/2212.10025
+
 
 Group Number: 05
 
