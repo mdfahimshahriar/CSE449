@@ -1,4 +1,6 @@
-Youtube Unlisted Video Link: https://youtube.com/playlist?list=PLwNCQRgfv_8LdU55S8BfHBxceqoDyC5-v&si=Nz05X7OqcZpihQB9
+Youtube Unlisted Video Link: https://youtu.be/S4j7jrj34AM?feature=shared
+
+CSE449 playlist: https://youtube.com/playlist?list=PLwNCQRgfv_8LdU55S8BfHBxceqoDyC5-v&si=Nz05X7OqcZpihQB9
 
 
 
